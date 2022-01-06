@@ -63,3 +63,5 @@ The precision and recall for each query while considering the narrative along wi
 According to the results shown above it is evident that, the recall value while considering the query description and title is better than considering query title only for each query. Subsequently, the recall value while considering the query narrative and title is better than considering query description and title for each query.
 
 From the precision results it is observed that, the precision value while considering query description and title decreases compared to while considering query title only for each query. Moreover, the precision value while considering query narrative and title decreases compared to while considering query description and title for each query. The reason behind that is, the Retrieval System finds more relevant documents when more details are provided.
+
+N.B.: Follow the instructions from the README.txt file to compile and execute this project.
