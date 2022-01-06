@@ -1,0 +1,78 @@
+<top>
+
+<num> Number: 352
+<title> British Chunnel impact
+
+<desc> Description:
+What impact has the Chunnel had on the British economy and/or 
+the life style of the British?
+
+<narr> Narrative: 
+Documents discussing the following issues are relevant:
+
+ - projected and actual impact on the life styles of the British 
+ - Long term changes to economic policy and relations
+ - major changes to other transportation systems linked with 
+   the Continent
+ 
+</top>
+
+
+<top>
+
+<num> Number: 353
+<title> Antarctica exploration
+
+<desc> Description: 
+Identify systematic explorations and scientific investigations
+of Antarctica, current or planned.
+
+<narr> Narrative: 
+Documents discussing the following issues are relevant:
+
+ - systematic explorations and scientific investigations of Antarctica
+   (e.g., seismology, ionospheric physics, possible economic development)
+ - other research currently conducted or planned for the future
+ - banning of mineral mining 
+
+ 
+</top>
+
+
+<top>
+
+<num> Number: 354
+<title> journalist risks
+
+<desc> Description: 
+Identify instances where a journalist has been put at risk (e.g.,
+killed, arrested or taken hostage) in the performance of his work.
+
+<narr> Narrative: 
+Any document identifying an instance where a journalist or 
+correspondent has been killed, arrested or taken hostage in the 
+performance of his work is relevant.  
+
+</top>
+
+
+<top>
+
+<num> Number: 359
+<title> mutual fund predictors
+
+<desc> Description: 
+Are there reliable and consistent predictors of
+mutual fund performance?
+
+<narr> Narrative: 
+A document must contain at least one factor 
+such as: rankings, risks, yields, or costs,
+and fund performance to be relevant.  
+Documents that discuss mutual fund rankings 
+are considered relevant.  
+
+</top>
+
+
+
