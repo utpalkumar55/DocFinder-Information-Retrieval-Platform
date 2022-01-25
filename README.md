@@ -1,5 +1,5 @@
 # DocFinder-Information-Retrieval-Platform
-This project demonstrates a simple Information Retrieval System using basic functionalities. This project contains three major components which are Text Parser, Indexer and Retrieval System.
+This project demonstrates a Information Retrieval System using basic functionalities. This project contains three major components which are Text Parser, Indexer and Retrieval System.
 
 Text Parser processes the initial provided documents and creates document dictionary and term dictionary. The following tasks are done by Text Parser.
 * Reading in document numbers and documents texts separately
